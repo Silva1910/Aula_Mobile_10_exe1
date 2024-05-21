@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula_Mobile_10_exe1</string>
+    <string name="item_circulo">CIRCULO</string>
+    <string name="item_retangulo">RETANGULO</string>
+    <string name="etBase">digite a base</string>
+    <string name="etAltura">digite a altura</string>
+    <string name="etRaio">digite o raio</string>
+    <string name="tvCirculo">AREA DE CALCULO DE CIRCULO</string>
+    <string name="tvRetangulo">AREA DE CALCULO DO RETANGULO</string>
+    <string name="btnPerimetro">PERIMETRO</string>
+    <string name="btnArea">AREA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
